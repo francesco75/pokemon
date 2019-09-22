@@ -21,7 +21,7 @@ background-image: url("images/back.jpg");
 div#first {
 background-image: url("images/back.jpg");
 }
-}
+} 
 
 @media (min-width: 1240px) {
 div#first {
