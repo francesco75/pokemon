@@ -1,0 +1,65 @@
+
+@media (min-width: 320px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+
+@media (min-width: 460px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+
+@media (min-width: 720px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+
+@media (min-width: 980px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+
+@media (min-width: 1240px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+
+@media (min-width: 1500px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+
+@media (min-width: 1760px) {
+div#first {
+background-image: url("images/back.jpg");
+}
+}
+@media (min-width: 1200px) {
+// css specific properties col-lg-*
+}
+ 
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+// css specific properties col-md-*
+}
+ 
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+// css specific properties col-sm-*
+}
+ 
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+// css specific properties col-xs-*
+}
+ 
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+// css specific properties col-xs-* or none for default
+}
