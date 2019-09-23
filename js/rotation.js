@@ -10,7 +10,7 @@
     function config($routeProvider, $locationProvider) {
         $locationProvider.html5Mode(true);  // Enable hashed //
         $routeProvider
-           .when('/start', {
+           .when('/', {
               
              templateUrl: 'templates/start.html',
            
