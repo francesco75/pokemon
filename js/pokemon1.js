@@ -7,7 +7,7 @@ var req = new XMLHttpRequest()
     if(req.status >=200 && req.status < 400){
   // Begin accessing JSON data here
     var tr = '<tr><td>'+ "National: " +'</td><td>'+ data1.base_experience +'</td></tr>'+"<tr><td>"+ "Weight: " +'</td><td>'+ data1.weight +'</td><tr>'+
-             '<tr><td>'+ "Type: " +'</td><td>'+'<button><a href="/poison">'+ data1.types[0].type.name+'</button></a>' +'</td></tr>'+"<tr><td>"+ "Name: " +'</td><td>'+'<a href="/evolution">'+ data1.species.name+'</a>' +'</td></tr>'+
+             '<tr><td>'+ "Type: " +'</td><td>'+'<button><a href="poison">'+ data1.types[0].type.name+'</button></a>' +'</td></tr>'+"<tr><td>"+ "Name: " +'</td><td>'+'<a href="evolution">'+ data1.species.name+'</a>' +'</td></tr>'+
              '<tr><td>'+ "Height: " +'</td><td>'+ data1.height +'</td></tr>'+"<tr><td>"+ "Abilities: " +'</td><td>'+ data1.abilities[0].ability.name +'</td></tr>';
       // Append the rows in the table
       $('#tbody2').append(tr);
