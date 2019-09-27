@@ -1,43 +1,43 @@
 
 @media (min-width: 320px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 }
 
 @media (min-width: 460px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 }
 
 @media (min-width: 720px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 }
 
 @media (min-width: 980px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 } 
 
 @media (min-width: 1240px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 }
 
 @media (min-width: 1500px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 }
 
 @media (min-width: 1760px) {
 div#first {
-background-image: url("images/back.jpg");
+background-image: url("../images/back.jpg");
 }
 }
 @media (min-width: 1200px) {
