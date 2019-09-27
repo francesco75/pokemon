@@ -1,4 +1,4 @@
-# Project The Heathdex
+# Project The Healthdex
 ## Overview
 ### Title The Healthdex
 ## What Does it do ?
