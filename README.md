@@ -11,13 +11,13 @@
      I start to study the Pokemon API and which part the database that i need to create the table with Json.I manage the pages with Angular Routine .
      I used the paper and the text file to organize creating my application. I used the image background with opacity style.        
 ## Features
-- Index.html:
+     - Index.html:
      - Start : My Homepage shows the jumbotron and the Pokemon picture with text , the basical  state informations for each Pokemon 
                the table move and battle amor with new generation  Pokemon.
               
-           - Normal :  I show the  Normal Pokemon with four tables 
-           - Poison :  I show the Poison Pokemon with two tables.            
-           - Evolution : I describe the evolution Pokemon Bulbasaur with the different level 1st to 16th level to 32nd level.
+     - Normal :  I show the  Normal Pokemon with four tables 
+     - Poison :  I show the Poison Pokemon with two tables.            
+     - Evolution : I describe the evolution Pokemon Bulbasaur with the different level 1st to 16th level to 32nd level.
                                                       
 ## Testing Browsers
 - The Testing Browser tests  the website on the different browsers and
