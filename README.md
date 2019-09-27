@@ -2,13 +2,13 @@
 ## Overview
 ### Title The Healthdex
 ## What Does it do ?
-    This Application describes the  different Pokemon and filter them about their origin normal and poison. The application shows the different base state and move 
+- This Application describes the  different Pokemon and filter them about their origin normal and poison. The application shows the different base state and move 
     with table and different type. The application explains the battle amor with table and pokemon flight. I show the evolution Pokemon bulbasaur with the different 
     level 1st level, 16th level and 32nd level.
     The API uses the Pokemon API and manage with Json .
 
 ## Starter
-     I start to study the Pokemon API and which part the database that i need to create the table with Json.I manage the pages with Angular Routine .
+- I start to study the Pokemon API and which part the database that i need to create the table with Json.I manage the pages with Angular Routine .
      I used the paper and the text file to organize creating my application. I used the image background with opacity style.        
 ## Features
 - Index.html:
