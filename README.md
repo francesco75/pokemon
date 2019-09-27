@@ -30,7 +30,7 @@
     The buttons work well and the site is reactive.
     - Final Testing is good
 - Mozilla Firefox
-     All the pages rspond very vell and jquery library and Angular Events work well.
+     All the pages rspond very well.
      The Navigation Bar works perfect.
     The buttons work well and the site is reactive.
     - Final Testing is good
@@ -42,15 +42,15 @@
       tables. 
    - Iphone 
        The Testing is perfect.
-       All the pages respond very vell
+       All the pages respond very well
        The tables work vell and navigation is fast and flexible.
    - Ipad
         The testing is perfect
-        All the pages respond very vell
+        All the pages respond very well
        The tables work well and navigation is fast and flexible
    - Desktop Xl
        The Testing is perfect.
-       All the pages respond very vell
+       All the pages respond very well
        The  tables work well and navigation is fast and flexible.
        
    - Desktop HIDPI Desktop MDPI   
@@ -58,7 +58,7 @@
 
    - Laptop Small  Large
        The Testing is perfect
-       All the pages respond very vell
+       All the pages respond very well
        The navbar works vell and navigation is fast and flexible
        
          
