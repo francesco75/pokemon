@@ -7,7 +7,7 @@
     level 1st level, 16th level and 32nd level.
     The API uses the Pokemon API and manage with Json .
 
-##Starter
+## Starter
      I start to study the Pokemon API and which part the database that i need to create the table with Json.I manage the pages with Angular Routine .
      I used the paper and the text file to organize creating my application. I used the image background with opacity style.        
 ## Features
