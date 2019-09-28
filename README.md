@@ -66,9 +66,11 @@
 ## Codec & Style
 - Html5 Css3
 - Node js and Npm
-- Javascript
+- JavaScript
+- Ajax JavaScript
 - API: Pokemon API
 - Json
+
 ## Bower Components
   - Angular js
   - Angular Routing 
