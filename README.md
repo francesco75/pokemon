@@ -67,7 +67,7 @@
 - Html5 Css3
 - Node js and Npm
 - Javascript
-_ API: Pokemon API
+- API: Pokemon API
 - Json
 ## Bower Components
   - Angular js
